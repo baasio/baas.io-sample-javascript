@@ -5,6 +5,7 @@ fileupload/Gruntfile.js
 fileupload/bower.json
 fileupload/package.json
 fileupload/app/package.json
+fileupload/.DS_Store
 login/node_modules/
 login/vendor/
 login/.bowerrc
@@ -12,3 +13,4 @@ login/Gruntfile.js
 login/bower.json
 login/package.json
 login/app/package.json
+login/.DS_Store

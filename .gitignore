@@ -8,7 +8,7 @@ fileupload/app/package.json
 login/node_modules/
 login/vendor/
 login/.bowerrc
-login/Grunfile.js
+login/Gruntfile.js
 login/bower.json
 login/package.json
 login/app/package.json

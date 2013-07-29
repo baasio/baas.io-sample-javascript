@@ -1,0 +1,14 @@
+fileupload/node_modules/
+fileupload/vendor/
+fileupload/.bowerrc
+fileupload/Gruntfile.js
+fileupload/bower.json
+fileupload/package.json
+fileupload/app/package.json
+login/node_modules/
+login/vendor/
+login/.bowerrc
+login/Grunfile.js
+login/bower.json
+login/package.json
+login/app/package.json
